@@ -1,4 +1,4 @@
-👋 Hi, I’m Alex Porra Moura, Led by Passion for innovation and technology. I'm an astute entrepreneur, determined to disrupt the current standard of the IT and marketing industries.
+Hi, I’m Alex Porra Moura, Led by Passion for innovation and technology. I'm an astute entrepreneur, determined to disrupt the current standard of the IT and marketing industries.
 <table>
   <tr>
     <td>
